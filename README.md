@@ -8,6 +8,6 @@ In this project, I created a pair of gloves which flash to the beat of your danc
 The picture below shows a development step. Note that the Arduino Uni was only used for prototyping. The final microcontroller was a Trinket M0 (x2) as it was much smaller. One is able to program these in Python or C++ so I may use them for later projects as well.
 
 <p align="center">
-  <img height="600" src="https://github.com/OliverHeilmann/LED_Gloves/blob/master/Figures/Electronics.jpg">
+  <img height="650" src="https://github.com/OliverHeilmann/LED_Gloves/blob/master/Figures/Electronics.jpg">
 </p>
 
